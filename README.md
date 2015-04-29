@@ -1,2 +1,2 @@
 # GulpSettings
-gulp配置
+gulp常用配置
